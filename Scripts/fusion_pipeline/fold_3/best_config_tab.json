@@ -1,0 +1,1 @@
+{"learning_rate": 5.6448322135933365e-05, "weight_decay": 4.0145281887434065e-06, "attention_dropout": 0.20721194607952287, "feedforward_dropout": 0.29676385431679775, "batch_size": 32, "dimensions": 64, "depth": 6, "heads": 8, "epochs": 25, "patience": 10}

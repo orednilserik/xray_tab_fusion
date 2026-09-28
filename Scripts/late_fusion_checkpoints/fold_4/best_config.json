@@ -1,0 +1,1 @@
+{"fused_dim": 128, "learning_rate": 8.101085435500702e-06, "batch_size": 16, "weight_decay": 0.0001349718363503909, "dropout_rate": 0.5787375198813629, "epochs": 50, "patience": 15}

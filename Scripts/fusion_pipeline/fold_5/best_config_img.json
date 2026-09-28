@@ -1,0 +1,1 @@
+{"pretrained_lr": 2.5394520422463202e-05, "finetuning_lr": 0.0001066025016297468, "weight_decay": 3.1247492280892703e-06, "batch_size": 16, "epochs": 25, "patience": 10}

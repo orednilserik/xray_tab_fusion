@@ -1,0 +1,4 @@
+*.pth
+Scripts/image_checkpoints/ray_results/
+*.png
+*.pdf

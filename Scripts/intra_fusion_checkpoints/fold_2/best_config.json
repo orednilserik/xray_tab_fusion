@@ -1,0 +1,1 @@
+{"num_heads": 4, "fused_dim": 256, "learning_rate": 1.4985314477082915e-06, "batch_size": 16, "weight_decay": 3.652438765885166e-06, "dropout_rate": 0.4286859735438926, "epochs": 50, "patience": 15}
